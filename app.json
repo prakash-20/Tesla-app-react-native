@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tesla",
-    "slug": "tesla",
+    "name": "Tesla",
+    "slug": "tesla-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/prakash-20/Tesla-app-react-native"
   }
 }
